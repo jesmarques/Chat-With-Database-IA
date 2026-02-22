@@ -2,7 +2,7 @@
 
 Assistente de IA para Consultas SQL em Linguagem Natural
 
-Este projeto é um Agente de IA Analista de Dados que permite conversar com um banco de dados SQL em linguagem natural (Português). O sistema interpreta a pergunta do usuário, gera a query SQL correspondente, executa-a em um ambiente seguro e retorna a análise final.
+Este projeto é um Agente de IA que permite conversar com um banco de dados SQL em linguagem natural (Português). O sistema interpreta a pergunta do usuário, gera a query SQL correspondente, executa-a em um ambiente seguro e retorna a análise final.
 
 ### 🎯 Caso de Uso: E-commerce (Olist)
 
